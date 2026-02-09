@@ -1,0 +1,19 @@
+*.db
+*.db-journal
+*.sqlite
+
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+test
+personal-blog # Linux/Mac binary name
+
+
+.vscode/
+.idea/
+
+.DS_Store     # Mac
+Thumbs.db     # Windows
